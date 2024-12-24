@@ -7,7 +7,7 @@ function Hero() {
         <div className="flex-1 justify-center items-center h-screen">
             <div className="text-8xl font-bold">
                 <div>Unleash the</div>
-                <div>Power of</div>
+                <div>Powering of</div>
             </div>
             <div className="text-4xl font-bold">Reliable Logistics</div>
             <div>Experience fast, secure deliveries with global reach, real-time tracking,</div>
